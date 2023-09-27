@@ -99,5 +99,9 @@ div {
     transform: rotate(-360deg);
   }
 }
-
-
+.center-both {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
